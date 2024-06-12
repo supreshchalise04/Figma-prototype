@@ -5,4 +5,4 @@ another
 https://www.figma.com/proto/ZoI4i63AtJ2uY8cDftDFM4/Untitled?node-id=20-2&t=90lCHjqmVrdYo8bq-1&scaling=scale-down&page-id=0%3A1
 
 travel website prototype
-https://www.figma.com/design/NcVRrNR5vvRh866u28fHFG/travel-website?node-id=3-245&t=FHoaK6dJE7n7UkhT-0
+https://www.figma.com/proto/NcVRrNR5vvRh866u28fHFG/travel-website?node-id=3-246&t=PFwqDKC6ZYOQZt28-0&scaling=scale-down-width&content-scaling=fixed&page-id=3%3A245
